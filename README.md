@@ -1,4 +1,5 @@
-# micro-ROS-TTGO
+
+
 Projeto de PI
 http://www.lilygo.cn/prod_view.aspx?TypeId=50003&Id=1138&FId=t3:50003:3
 http://www.lilygo.cn/prod_view.aspx?TypeId=50033&Id=1237
@@ -18,17 +19,32 @@ Implementação de uma arquitetura sistólica para multiplicação de matrizes e
 
 ## Cronograma
 
-- [ ] Exemplo
-- [ ] Pesquisar tipos de arquiteturas
-- [ ] Implementação da arquitetura escolhida
+- [ ] Pesquisa e Documentação sobre:
+  - [ ] micro-ROS
+  - [ ] FreeRTOS IDF Espressif
+  - [ ] LILYGO® TTGO T-Beam V0.7
+  - [ ] LILYGO®TTGO LORA32 V2.0
+- [ ] Instalar ferramentas necessárias para desenvolvimento
+- [ ] Assistir apresentação: [microROS: ROS2 no seu ESP32](https://www.youtube.com/watch?v=n2JenAqCLQQ)
+- [ ] Separar material prático para aplicação
+- [ ] Simular exemplo de micro-ROS no Gazebo
+- [ ] Rodar sistema na placa T-Beam
+- [ ] Implementar leitura GPS
+- [ ] Transmitir e Receber dados via LoRa com LORA32
 - [ ] Debug e Revisão
-- [ ] Treinamento de uma NN simples para testar o funcionamento
-- [ ] Verificar a diferença do desempenho com e sem a implementação
 - [ ] Documentar
 
 ## Diagrama de Blocos
 
 Uma visão geral do funcionamento pode ser visto nesse diagrama.
+
+
+
+### Referências
+
+https://www.freertos.org/
+
+
 
 ![Cube](./img/PE_configuration.png)
 
