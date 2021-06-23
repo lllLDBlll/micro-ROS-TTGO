@@ -13,21 +13,21 @@ https://drive.google.com/file/d/1IugnNUfNke4xHS9BnmuY3owpf2yVUg6o/view?usp=shari
 
 https://www.embarcados.com.br/embarcados-live-microros-ros2-no-seu-esp32/
 
-Data | Atividade | Check
-:--------- | :------: | :-------:
-23/06/2021 | Pesquisa e Documentação | ⬜️
-30/06/2021 | Pesquisa e Documentação | ⬜️
-07/07/2021 | Pesquisa e Documentação | ✅
-14/07/2021 | Pesquisa e Documentação | ⬜️
-21/07/2021 |  | ⬜️
-28/07/2021 |  | ⬜️
-04/08/2021 |  | ⬜️
-11/08/2021 |  | ⬜️
-18/08/2021 |  | ⬜️
-25/08/2021 |  | ⬜️
-01/09/2021 |  | ⬜️
-08/09/2021 |  | ⬜️
-15/09/2021 |  | ⬜️
+Data | Atividade | Objetivo* | Check
+:--------- | :------: | :-------: | :-------:
+23/06/2021 | Pesquisa e Documentação    |   | ⬜️
+30/06/2021 | Pesquisa e Documentação    |   | ⬜️
+07/07/2021 | Pesquisa e Documentação    |   | ✅
+14/07/2021 | Pesquisa e Documentação    |   | ⬜️
+21/07/2021 | Desenvolvimento de código  |   | ⬜️
+28/07/2021 | Desenvolvimento de código  |   | ⬜️
+04/08/2021 | Desenvolvimento de código  |   | ⬜️
+11/08/2021 | Elaboração de Protótipo    |   | ⬜️
+18/08/2021 | Elaboração de Protótipo    |   | ⬜️
+25/08/2021 | Elaboração de Protótipo    |   | ⬜️
+01/09/2021 | Elaboração de Protótipo    |   | ⬜️
+08/09/2021 | Revisar Documentação       |   | ⬜️
+15/09/2021 | Entrega do Projeto         |   | ⬜️
 
 
 ## Cronograma
@@ -84,5 +84,8 @@ Alinhado a esquerda | Centralizado | Alinhado a direita
 Valor | Valor | Valor
 
 #### Emojis
-✅
-⬜️
+
+https://github.com/StylishThemes/GitHub-Dark/wiki/Emoji
+
+https://gist.github.com/rxaviers/7360908
+
