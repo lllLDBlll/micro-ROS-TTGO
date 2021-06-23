@@ -15,8 +15,6 @@ Alinhado a esquerda | Centralizado | Alinhado a direita
 Valor | Valor | Valor
 
 
-Implementação de uma arquitetura sistólica para multiplicação de matrizes em FPGA
-
 ## Cronograma
 
 - [ ] Pesquisa e Documentação sobre:
