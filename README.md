@@ -10,12 +10,38 @@ https://drive.google.com/file/d/1IugnNUfNke4xHS9BnmuY3owpf2yVUg6o/view?usp=shari
 
 https://www.embarcados.com.br/embarcados-live-microros-ros2-no-seu-esp32/
 
+Exemplo de Tabela:
+
 Alinhado a esquerda | Centralizado | Alinhado a direita
 :--------- | :------: | -------:
 Valor | Valor | Valor
 
 
+Data | Atividade | Check
+:--------- | :------: | :-------:
+23/06/2021 | Pesquisa e Documentação | ⬜️
+30/06/2021 | Pesquisa e Documentação | ⬜️
+07/07/2021 | Pesquisa e Documentação | ✅
+14/07/2021 | Pesquisa e Documentação | ⬜️
+21/07/2021 |  | ⬜️
+28/07/2021 |  | ⬜️
+04/08/2021 |  | ⬜️
+11/08/2021 |  | ⬜️
+18/08/2021 |  | ⬜️
+25/08/2021 |  | ⬜️
+01/09/2021 |  | ⬜️
+08/09/2021 |  | ⬜️
+15/09/2021 |  | ⬜️
+
+
 ## Cronograma
+- [ ] Pesquisa e Documentação sobre: 23/06/2021
+  - [ ] micro-ROS
+  - [ ] FreeRTOS IDF Espressif
+  - [ ] LILYGO® TTGO T-Beam V0.7
+  - [ ] LILYGO®TTGO LORA32 V2.0
+
+## Lista de Atividades
 
 - [ ] Pesquisa e Documentação sobre:
   - [ ] micro-ROS
